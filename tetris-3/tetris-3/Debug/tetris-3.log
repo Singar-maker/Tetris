@@ -1,0 +1,21 @@
+﻿  Tboard.cpp
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(6,1): error C2653: "Tboard": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(6,17): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(7,2): error C2065: "Board": niezadeklarowany identyfikator
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(7,8): error C2065: "Height": niezadeklarowany identyfikator
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(9,2): warning C4508: "Tboard": funkcja powinna zwrócić wartość; założono typ zwracany "void"
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(10,6): error C2653: "Tboard": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.h(17,21): error C2734: „Tboard::Height”: obiekt const musi zostać zainicjowany, jeśli nie jest obiektem extern
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.h(17,14): error C2086: "const short Tboard::Height": zmiana definicji
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.h(15): message : zobacz deklarację „Tboard::Height”
+  tetris-3.cpp
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(6,1): error C2653: "Tboard": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(6,17): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(7,2): error C2065: "Board": niezadeklarowany identyfikator
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(7,8): error C2065: "Height": niezadeklarowany identyfikator
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(9,2): warning C4508: "Tboard": funkcja powinna zwrócić wartość; założono typ zwracany "void"
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.cpp(10,6): error C2653: "Tboard": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.h(17,21): error C2734: „Tboard::Height”: obiekt const musi zostać zainicjowany, jeśli nie jest obiektem extern
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.h(17,14): error C2086: "const short Tboard::Height": zmiana definicji
+C:\Users\huber\source\repos\tetris-3\tetris-3\Tboard.h(15): message : zobacz deklarację „Tboard::Height”
+  Generowanie kodu...
