@@ -1,0 +1,2 @@
+D:\Tetris Projekt\Tetris 07.05.2021\TetrisSFMLPO\Debug\TetrisSFMLPO.exe
+D:\Tetris Projekt\Tetris 07.05.2021\TetrisSFMLPO\Debug\TetrisSFMLPO.pdb
